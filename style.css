@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+    padding-top: 50px;
+    background-color: #f0f0f0;
+}
+
+.main-container {
+    background-color: white;
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+button {
+    margin: 10px;
+    cursor: pointer;
+}
+
+img {
+    margin-top: 10px;
+    width: 100px;
+}
